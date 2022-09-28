@@ -1,1 +1,1 @@
-Test Cases in .pdf format written in TestRail
+Test Cases in .pdf format created in TestRail.
